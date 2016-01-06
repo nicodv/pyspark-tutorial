@@ -1,5 +1,5 @@
 # pyspark-tutorial
-Notebook with short PySpark tutorial
+A short tutorial notebook on PySpark
 
 Prerequisites
 -------------
