@@ -4,14 +4,12 @@ Notebook with short PySpark tutorial
 Prerequisites
 -------------
 
-- If you do not have it already, you will need the JDK available [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
+- Install Java 7 or newer on your OS.
 
 - Download a pre-built version of Spark from [here](https://spark.apache.org/downloads.html) and unpack it.
 
-- Set the following environment variables, for example in your `~/.bash_profile`:
+- Set the following environment variables, for example in your `~/.bashrc`:
 
-    `export JAVA_HOME=$(/usr/libexec/java_home)`
-    
     `export SPARK_HOME=/PATH/TO/SPARK`
     
     `export PYTHONPATH=/PATH/TO/SPARK/python`
